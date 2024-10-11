@@ -2,7 +2,7 @@
 
 I develop geospatial tools (often open-source). I'm passionate about building scalable, efficient, and accessible solutions that enable geospatial data to address previously insurmountable questions in climate, forestry, and beyond.
 
-I primarily work with Python but am in favour of [language-agnostic](https://en.wikipedia.org/wiki/Language-agnostic) development. Actively learning Rust and Julia along with their geospatial ecosystems.
+While I primarily work with Python, I'm an advocate of [language-agnostic](https://en.wikipedia.org/wiki/Language-agnostic) development. Actively learning Rust and Julia along with their geospatial ecosystems.
 <!--
 **szwiep/szwiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
